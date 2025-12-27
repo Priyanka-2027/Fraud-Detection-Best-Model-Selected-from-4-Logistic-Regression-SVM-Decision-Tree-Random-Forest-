@@ -17,9 +17,10 @@ and comprehensive model evaluation.
 - **Class Imbalance Handling**: Implementation of SMOTE for balanced model training
 - **Multiple ML Models**: Comparison of various algorithms including:
   - Random Forest
-  - XGBoost
+  - Decision Tree
   - Logistic Regression
   - Support Vector Machine
+- The model currently being used for predictions is: RandomForestClassifier
 - **Model Persistence**: Save and load trained models for production use
 - **Comprehensive Evaluation**: Detailed metrics and visualizations for model assessment
 
