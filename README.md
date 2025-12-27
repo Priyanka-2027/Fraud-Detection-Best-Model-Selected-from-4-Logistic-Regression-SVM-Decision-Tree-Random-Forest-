@@ -122,10 +122,10 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request
 
 ## 🤝 Output Screenshots
-<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/5f090c09-a650-44e7-b1c3-013421fbbd24" />
-<img width="1911" height="928" alt="image" src="https://github.com/user-attachments/assets/bee81688-7d25-4ab0-966d-206417ed7848" />
-<img width="1912" height="593" alt="image" src="https://github.com/user-attachments/assets/38b75450-a5d4-470f-841b-82c41a3207a0" />
-<img width="298" height="11" alt="image" src="https://github.com/user-attachments/assets/5726d2ba-073e-4b96-b740-2e0081f18861" />
+<img width="1912" height="593" alt="image" src="https://github.com/user-attachments/assets/ea741d59-59f0-4b9f-9027-8f3520bc495e" />
+<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/69893465-8ce8-4eba-b441-ae8fba587d8a" />
+<img width="1897" height="1024" alt="image" src="https://github.com/user-attachments/assets/a95e937e-4415-441b-b7ed-705499f72ef6" />
+<img width="1889" height="955" alt="image" src="https://github.com/user-attachments/assets/69183482-cb31-4043-9a18-6035a5a23aee" />
 
 ## 📄 License
 
