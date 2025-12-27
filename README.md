@@ -4,7 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ML](https://img.shields.io/badge/Machine%20Learning-Classification-brightgreen)](https://scikit-learn.org/)
 
-A robust machine learning pipeline for detecting fraudulent credit card transactions using various classification algorithms. This system is specifically designed to handle the challenges of highly imbalanced datasets commonly encountered in fraud detection scenarios.
+A robust Machine Learning system for detecting fraudulent credit card transactions. 
+This project implements and compares four classification models (Logistic Regression, 
+Decision Tree, Random Forest, and SVM) to identify potentially fraudulent activities 
+with high accuracy. The system includes data preprocessing, feature engineering, 
+and comprehensive model evaluation.
 
 ## 🚀 Features
 
