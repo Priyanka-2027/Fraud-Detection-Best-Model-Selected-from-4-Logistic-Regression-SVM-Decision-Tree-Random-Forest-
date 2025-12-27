@@ -125,7 +125,7 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 🤝 Output Screenshots
+##  Output Screenshots
 <img width="1912" height="593" alt="image" src="https://github.com/user-attachments/assets/ea741d59-59f0-4b9f-9027-8f3520bc495e" />
 <img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/69893465-8ce8-4eba-b441-ae8fba587d8a" />
 <img width="1897" height="1024" alt="image" src="https://github.com/user-attachments/assets/a95e937e-4415-441b-b7ed-705499f72ef6" />
