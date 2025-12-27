@@ -20,7 +20,7 @@ and comprehensive model evaluation.
   - Decision Tree
   - Logistic Regression
   - Support Vector Machine
-- The model currently being used for predictions is: RandomForestClassifier
+- The model currently being used for predictions is: RandomForestClassifier(This model was chosen as the best performing model during training based on the F1-score)
 - **Model Persistence**: Save and load trained models for production use
 - **Comprehensive Evaluation**: Detailed metrics and visualizations for model assessment
 
