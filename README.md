@@ -132,9 +132,7 @@ Contributions are welcome! Please follow these steps:
 <img width="1897" height="1024" alt="image" src="https://github.com/user-attachments/assets/a95e937e-4415-441b-b7ed-705499f72ef6" />
 <img width="1889" height="955" alt="image" src="https://github.com/user-attachments/assets/69183482-cb31-4043-9a18-6035a5a23aee" />
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
