@@ -8,7 +8,7 @@ A robust Machine Learning system for detecting fraudulent credit card transactio
 This project implements and compares four classification models (Logistic Regression, 
 Decision Tree, Random Forest, and SVM) to identify potentially fraudulent activities 
 with high accuracy. The system includes data preprocessing, feature engineering, 
-and comprehensive model evaluation.
+and comprehensive model evaluation
 
 ## 🚀 Features
 
